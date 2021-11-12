@@ -1,27 +1,27 @@
 # Top 25 Algorithms Every Programmer Should Know
 
-- [ ] Binary Search Algorithm
-- [ ] Breadth First Search (BFS) Algorithm
-- [ ] Depth First Search (DFS) Algorithm
-- [ ] Merge Sort Algorithm
-- [ ] Quicksort Algorithm
-- [ ] Kruskal’s Algorithm
-- [ ] Floyd Warshall Algorithm
-- [ ] Dijkstra’s Algorithm
-- [ ] Bellman Ford Algorithm
-- [ ] Kadane’s Algorithm
-- [ ] Lee Algorithm
-- [ ] Flood Fill Algorithm
-- [ ] Floyd’s Cycle Detection Algorithm
-- [ ] Union Find Algorithm
-- [ ] Topological Sort Algorithm
-- [ ] KMP Algorithm
-- [ ] Insertion Sort Algorithm
-- [ ] Selection Sort Algorithm
-- [ ] Counting Sort Algorithm
-- [ ] Heap Sort Algorithm
-- [ ] Kahn’s Topological Sort Algorithm
-- [ ] Huffman Coding Compression Algorithm
-- [ ] Quickselect Algorithm
-- [ ] Boyer–Moore Majority Vote Algorithm
-- [ ] Euclid’s Algorithm
+- [ ] Binary Search.
+- [ ] Breadth First Search (BFS).
+- [ ] Depth First Search (DFS).
+- [ ] Merge Sort.
+- [ ] Quicksort.
+- [ ] Kruskal’s.
+- [ ] Floyd Warshall.
+- [ ] Dijkstra’s.
+- [ ] Bellman Ford.
+- [ ] Kadane’s.
+- [ ] Lee.
+- [ ] Flood Fill.
+- [ ] Floyd’s Cycle Detection.
+- [ ] Union Find.
+- [ ] Topological Sort.
+- [ ] KMP.
+- [ ] Insertion Sort.
+- [ ] Selection Sort.
+- [ ] Counting Sort.
+- [ ] Heap Sort.
+- [ ] Kahn’s Topological Sort.
+- [ ] Huffman Coding Compression.
+- [ ] Quickselect.
+- [ ] Boyer–Moore Majority Vote.
+- [ ] Euclid’s.
