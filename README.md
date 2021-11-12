@@ -1,27 +1,27 @@
 # [Top 25 Algorithms Every Programmer Should Know](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know-373246b4881b)
 
-- [x] Binary Search.
-- [x] Breadth First Search (BFS).
-- [ ] Depth First Search (DFS).
-- [ ] Merge Sort.
-- [ ] Quicksort.
-- [ ] Kruskal’s.
-- [ ] Floyd Warshall.
-- [ ] Dijkstra’s.
-- [ ] Bellman Ford.
-- [ ] Kadane’s.
-- [ ] Lee.
-- [ ] Flood Fill.
-- [ ] Floyd’s Cycle Detection.
-- [ ] Union Find.
-- [ ] Topological Sort.
-- [ ] KMP.
-- [ ] Insertion Sort.
-- [ ] Selection Sort.
-- [ ] Counting Sort.
-- [ ] Heap Sort.
-- [ ] Kahn’s Topological Sort.
-- [ ] Huffman Coding Compression.
-- [ ] Quickselect.
-- [ ] Boyer–Moore Majority Vote.
-- [ ] Euclid’s.
+- [x] [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm).
+- [x] [Breadth First Search (BFS)](https://en.wikipedia.org/wiki/Breadth-first_search).
+- [ ] [Depth First Search (DFS)](https://en.wikipedia.org/wiki/Depth-first_search).
+- [ ] [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort).
+- [ ] [Quicksort](https://en.wikipedia.org/wiki/Quicksort).
+- [ ] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
+- [ ] [Floyd Warshall]().
+- [ ] [Dijkstra]().
+- [ ] [Bellman Ford]().
+- [ ] [Kadane]().
+- [ ] [Lee]().
+- [ ] [Flood Fill]().
+- [ ] [Floyd’s Cycle Detection]().
+- [ ] [Union Find]().
+- [ ] [Topological Sort]().
+- [ ] [KMP]().
+- [ ] [Insertion Sort]().
+- [ ] [Selection Sort]().
+- [ ] [Counting Sort]().
+- [ ] [Heap Sort]().
+- [ ] [Kahn’s Topological Sort]().
+- [ ] [Huffman Coding Compression]().
+- [ ] [Quickselect]().
+- [ ] [Boyer–Moore Majority Vote]().
+- [ ] [Euclid]().
