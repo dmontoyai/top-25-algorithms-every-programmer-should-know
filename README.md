@@ -1,4 +1,4 @@
-# Top 25 Algorithms Every Programmer Should Know
+# [Top 25 Algorithms Every Programmer Should Know](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know-373246b4881b)
 
 - [x] Binary Search.
 - [ ] Breadth First Search (BFS).
