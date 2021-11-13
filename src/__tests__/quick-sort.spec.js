@@ -1,6 +1,6 @@
-const mergeSort = require('../merge-sort');
+const quickSort = require('../quick-sort');
 
-describe('testing merge sort', () => {
+describe('testing quick sort', () => {
   const testCases = [
     {
       name: 'should sort a small array',
@@ -20,7 +20,7 @@ describe('testing merge sort', () => {
 
   testCases.forEach(({ name, input }) => {
     it(name, () => {
-      const actual = mergeSort(input);
+      const actual = quickSort(input);
       expect(actual).toStrictEqual(input.slice().sort((a, b) => a - b));
     });
   });
