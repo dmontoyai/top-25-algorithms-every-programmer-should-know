@@ -7,7 +7,7 @@
 - [x] [Quicksort](https://en.wikipedia.org/wiki/Quicksort).
 - [x] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
 - [x] [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm).
-- [ ] [Dijkstra]().
+- [x] [Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).
 - [ ] [Bellman Ford]().
 - [ ] [Kadane]().
 - [ ] [Lee]().

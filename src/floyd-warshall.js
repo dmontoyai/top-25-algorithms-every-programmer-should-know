@@ -5,7 +5,6 @@
  *
  * Complexity: O(|V|^{3})
  */
-
 function floydWarshall(graph) {
   const vertices = Object.keys(graph);
   const distances = {};
