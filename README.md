@@ -5,7 +5,7 @@
 - [x] [Depth First Search (DFS)](https://en.wikipedia.org/wiki/Depth-first_search).
 - [x] [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort).
 - [x] [Quicksort](https://en.wikipedia.org/wiki/Quicksort).
-- [ ] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
+- [x] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
 - [ ] [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm).
 - [ ] [Dijkstra]().
 - [ ] [Bellman Ford]().
