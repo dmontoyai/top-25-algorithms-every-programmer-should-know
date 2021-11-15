@@ -6,7 +6,7 @@
 - [x] [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort).
 - [x] [Quicksort](https://en.wikipedia.org/wiki/Quicksort).
 - [x] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
-- [ ] [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm).
+- [x] [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm).
 - [ ] [Dijkstra]().
 - [ ] [Bellman Ford]().
 - [ ] [Kadane]().
