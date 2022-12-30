@@ -1,6 +1,6 @@
 # Top 25 Algorithms Every Programmer Should Know
 
-- [ ] [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm).
+- [X] [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm).
 - [ ] [Breadth First Search (BFS)](https://en.wikipedia.org/wiki/Breadth-first_search).
 - [ ] [Depth First Search (DFS)](https://en.wikipedia.org/wiki/Depth-first_search).
 - [ ] [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort).
