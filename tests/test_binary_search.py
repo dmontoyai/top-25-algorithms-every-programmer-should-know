@@ -12,7 +12,8 @@ class TestBinarySearch:
     def stack(self) -> list:
         return list(range(16))
 
-    def test_search_the_first_element_in_the_list(self, stack: list) -> None:
+    def test_search_the_first_element_in_the_list_worst_scenario(
+            self, stack: list) -> None:
         steps = BinarySearch.solve(stack, 0)
 
         expected_steps = int(math.sqrt(len(stack)))
@@ -24,8 +25,7 @@ class TestBinarySearch:
 
         expect(steps).to(equal(1))
 
-    def test_search_the_last_element_in_the_list_worst_scenario(
-            self, stack: list) -> None:
+    def test_search_the_last_element_in_the_list(self, stack: list) -> None:
         steps = BinarySearch.solve(stack, 15)
 
-        expect(steps).to(equal(16))
+        expect(steps).to(equal(5))

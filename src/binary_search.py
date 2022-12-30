@@ -16,13 +16,13 @@ class BinarySearch:
         left = 0
         right = len(stack) - 1
         while left <= right:
-            middle = math.floor((left + right) / 2)
-            if stack[middle] == target:
-                return steps + 1
-            if stack[middle] > target:
-                steps += 1
-                right = middle - 1
-                continue
             steps += 1
-            left = left + 1
+            middle = math.floor((left + right) / 2)
+            print(middle, stack)
+            if stack[middle] == target:
+                return steps
+            if stack[middle] > target:
+                right = middle - 1
+            if stack[middle] < target:
+                left = middle + 1
         return steps
