@@ -1,6 +1,3 @@
-import math
-
-
 # Given a sorted array of N integers and a target value,
 # determine if the target exists in the array in logarithmic
 # time using the binary search algorithm.
@@ -17,7 +14,7 @@ class BinarySearch:
         right = len(stack) - 1
         while left <= right:
             steps += 1
-            middle = math.floor((left + right) / 2)
+            middle = int((left + right) / 2)
             if stack[middle] == target:
                 return steps
             if stack[middle] > target:
