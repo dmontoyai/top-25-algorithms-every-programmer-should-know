@@ -18,7 +18,6 @@ class BinarySearch:
         while left <= right:
             steps += 1
             middle = math.floor((left + right) / 2)
-            print(middle, stack)
             if stack[middle] == target:
                 return steps
             if stack[middle] > target:
