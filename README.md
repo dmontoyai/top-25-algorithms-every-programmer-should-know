@@ -4,7 +4,7 @@
 - [X] [Breadth First Search (BFS)](https://en.wikipedia.org/wiki/Breadth-first_search).
 - [X] [Depth First Search (DFS)](https://en.wikipedia.org/wiki/Depth-first_search).
 - [X] [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort).
-- [ ] [Quicksort](https://en.wikipedia.org/wiki/Quicksort).
+- [X] [Quicksort](https://en.wikipedia.org/wiki/Quicksort).
 - [ ] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
 - [ ] [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm).
 - [ ] [Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).
