@@ -2,7 +2,7 @@
 
 - [X] [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm).
 - [X] [Breadth First Search (BFS)](https://en.wikipedia.org/wiki/Breadth-first_search).
-- [ ] [Depth First Search (DFS)](https://en.wikipedia.org/wiki/Depth-first_search).
+- [X] [Depth First Search (DFS)](https://en.wikipedia.org/wiki/Depth-first_search).
 - [ ] [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort).
 - [ ] [Quicksort](https://en.wikipedia.org/wiki/Quicksort).
 - [ ] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
