@@ -22,7 +22,6 @@ class BreadthFirstSearch(Generic[T]):
         visited = set()
         steps = 0
         while queue:
-            print(queue)
             steps += 1
             current = queue.popleft()
             if current == target:
