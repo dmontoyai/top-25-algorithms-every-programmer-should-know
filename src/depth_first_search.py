@@ -21,10 +21,10 @@ class DepthFirstSearch(Generic[T]):
     target: T
 
     def solve(self) -> int:
-        path = self._dfs(set(), self.tree, self.root, self.target, [])
+        path = self._dfs(self.tree, self.root, self.target, [])
         return path.index(self.target) + 1
 
-    def _dfs(self, visited: set, tree: dict[T, list[T]], root: T, target: T,
+    def _dfs(self, tree: dict[T, list[T]], root: T, target: T,
              path: list[T]) -> list[T]:
         queue: Deque[T] = deque()
         queue.append(root)
@@ -34,10 +34,9 @@ class DepthFirstSearch(Generic[T]):
             if current == target:
                 path.append(current)
                 return path
-            visited.add(current)
             path.append(current)
             children = tree.get(current)
             if children:
                 for child in children:
-                    path.extend(self._dfs(visited, tree, child, target, path))
+                    path.extend(self._dfs(tree, child, target, path))
         return path
