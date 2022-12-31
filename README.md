@@ -1,7 +1,7 @@
 # Top 25 Algorithms Every Programmer Should Know ![status](https://github.com/pmareke/top-25-algorithms-every-programmer-should-know/actions/workflows/python-app.yml/badge.svg)
 
 - [X] [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm).
-- [ ] [Breadth First Search (BFS)](https://en.wikipedia.org/wiki/Breadth-first_search).
+- [X] [Breadth First Search (BFS)](https://en.wikipedia.org/wiki/Breadth-first_search).
 - [ ] [Depth First Search (DFS)](https://en.wikipedia.org/wiki/Depth-first_search).
 - [ ] [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort).
 - [ ] [Quicksort](https://en.wikipedia.org/wiki/Quicksort).
