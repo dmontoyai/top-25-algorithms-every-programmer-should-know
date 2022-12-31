@@ -1,12 +1,9 @@
-from dataclasses import dataclass
 from typing import TypeVar, Generic
 
 T = TypeVar('T', str, int)
 
 
-@dataclass
 class MergeSort(Generic[T]):
-    array: list[T]
 
     def solve(self, array: list[T] = []) -> list[T]:
         if len(array) <= 1:
