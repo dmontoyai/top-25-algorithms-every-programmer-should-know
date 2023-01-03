@@ -6,6 +6,7 @@
 - [X] [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort).
 - [X] [Quicksort](https://en.wikipedia.org/wiki/Quicksort).
 - [X] [Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).
+- [X] [Quickselect](https://en.wikipedia.org/wiki/Quickselect).
 - [ ] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
 - [ ] [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm).
 - [ ] [Bellman Ford]().
@@ -22,6 +23,5 @@
 - [ ] [Heap Sort]().
 - [ ] [Kahn’s Topological Sort]().
 - [ ] [Huffman Coding Compression]().
-- [ ] [Quickselect]().
 - [ ] [Boyer–Moore Majority Vote]().
 - [ ] [Euclid]().
