@@ -9,7 +9,7 @@
 - [X] [Quickselect](https://en.wikipedia.org/wiki/Quickselect).
 - [X] [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort).
 - [X] [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort).
-- [ ] [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort).
+- [X] [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort).
 - [ ] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
 - [ ] [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm).
 - [ ] [Bellman Ford]().
