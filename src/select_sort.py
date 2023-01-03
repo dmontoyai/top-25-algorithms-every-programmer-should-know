@@ -2,16 +2,13 @@ from typing import Generic, TypeVar
 
 T = TypeVar('T', str, int)
 
+
 # SelectSort is an in-place comparison sorting algorithm.
 #
-# The algorithm divides the input list into two parts:
-# a sorted sublist of items which is built up from left to
-# right at the front (left) of the list
-# and a sublist of the remaining unsorted items that occupy the rest of the list.
+# It works sorting an array by repeatedly finding the minimum element
+# and putting it at the beginning
 #
 # Complexity: O(n^2).
-
-
 class SelectSort(Generic[T]):
 
     def solve(self, items: list[T]) -> list[T]:

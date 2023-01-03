@@ -8,6 +8,7 @@
 - [X] [Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).
 - [X] [Quickselect](https://en.wikipedia.org/wiki/Quickselect).
 - [X] [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort).
+- [X] [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort).
 - [ ] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
 - [ ] [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm).
 - [ ] [Bellman Ford]().
@@ -18,7 +19,6 @@
 - [ ] [Union Find]().
 - [ ] [Topological Sort]().
 - [ ] [KMP]().
-- [ ] [Insertion Sort]().
 - [ ] [Counting Sort]().
 - [ ] [Heap Sort]().
 - [ ] [Kahn’s Topological Sort]().
