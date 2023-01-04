@@ -12,13 +12,13 @@
 - [X] [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort).
 - [X] [Euclid](https://en.wikipedia.org/wiki/Euclidean_algorithm).
 - [ ] [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort).
+- [ ] [Boyer–Moore Majority Vote](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm).
 - [ ] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
 - [ ] [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm).
 - [ ] [Bellman Ford]().
 - [ ] [Kadane]().
 - [ ] [Lee]().
 - [ ] [Flood Fill]().
-- [ ] [Floyd’s Cycle Detection]().
 - [ ] [Union Find]().
 - [ ] [Topological Sort]().
 - [ ] [KMP]().
