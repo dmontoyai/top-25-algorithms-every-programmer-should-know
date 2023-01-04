@@ -10,7 +10,7 @@
 - [X] [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort).
 - [X] [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort).
 - [X] [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort).
-- [ ] [Euclid](https://en.wikipedia.org/wiki/Euclidean_algorithm).
+- [X] [Euclid](https://en.wikipedia.org/wiki/Euclidean_algorithm).
 - [ ] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
 - [ ] [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm).
 - [ ] [Bellman Ford]().
