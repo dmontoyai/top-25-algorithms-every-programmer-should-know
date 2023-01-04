@@ -11,6 +11,7 @@
 - [X] [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort).
 - [X] [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort).
 - [X] [Euclid](https://en.wikipedia.org/wiki/Euclidean_algorithm).
+- [ ] [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort).
 - [ ] [Kruskal's](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm).
 - [ ] [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm).
 - [ ] [Bellman Ford]().
@@ -21,7 +22,6 @@
 - [ ] [Union Find]().
 - [ ] [Topological Sort]().
 - [ ] [KMP]().
-- [ ] [Counting Sort]().
 - [ ] [Heap Sort]().
 - [ ] [Kahn’s Topological Sort]().
 - [ ] [Huffman Coding Compression]().
