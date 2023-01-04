@@ -9,10 +9,9 @@ class TestEuclid:
         (10, 15, 5),
         (35, 10, 5),
         (31, 2, 1),
-        ])
-    def test_find_gcd(self, a:int, b :int, result: int) -> None:
+    ])
+    def test_find_gcd(self, a: int, b: int, result: int) -> None:
         euclid = Euclid()
         gcd = euclid.solve(a, b)
 
         expect(gcd).to(equal(result))
-            
