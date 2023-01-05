@@ -4,7 +4,6 @@ from src.boyer_moore import BoyerMoore
 
 
 class TestBoyerMooreSort:
-
     def test_find_the_mayority_number(self) -> None:
         array = [10, 5, 1, 3, 1, 10, 1, 1, 1, 1]
         boyer_moore = BoyerMoore()

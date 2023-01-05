@@ -4,7 +4,6 @@ from src.bubble_sort import BubbleSort
 
 
 class TestBubbleSort:
-
     def test_sort_an_array(self) -> None:
         array = [10, 5, 1, 3]
         bubble_sort = BubbleSort()

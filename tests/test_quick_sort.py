@@ -4,7 +4,6 @@ from src.quick_sort import QuickSort
 
 
 class TestQuickSort:
-
     def test_sort_an_array(self) -> None:
         array = [10, 5, 1, 3]
         quick_sort = QuickSort()

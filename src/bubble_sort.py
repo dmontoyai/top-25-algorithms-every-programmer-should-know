@@ -1,6 +1,6 @@
 from typing import Generic, TypeVar
 
-T = TypeVar('T', str, int)
+T = TypeVar("T", str, int)
 
 
 # BubbleSort is an in-place comparison sorting algorithm.
@@ -11,7 +11,6 @@ T = TypeVar('T', str, int)
 #
 # Complexity: O(n^2).
 class BubbleSort(Generic[T]):
-
     def solve(self, items: list[T]) -> list[T]:
         size = len(items)
         swapped = False

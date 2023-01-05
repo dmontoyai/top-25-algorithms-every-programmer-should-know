@@ -6,7 +6,6 @@ from src.binary_search import BinarySearch
 
 
 class TestBinarySearch:
-
     def test_worst_scenario(self) -> None:
         stack = [chr(97 + index) for index in range(16)]
 

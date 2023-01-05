@@ -1,6 +1,6 @@
 from typing import TypeVar, Generic
 
-T = TypeVar('T', str, int)
+T = TypeVar("T", str, int)
 
 
 # QuickSelect is a selection algorithm.
@@ -13,12 +13,10 @@ T = TypeVar('T', str, int)
 #
 # Complexity: O(n^2).
 class QuickSelect(Generic[T]):
-
     def solve(self, items: list[T], index: int) -> T:
         return self._quick_select(items, 0, len(items) - 1, index)
 
-    def _quick_select(self, items: list[T], lidx: int, ridx: int,
-                      index: int) -> T:
+    def _quick_select(self, items: list[T], lidx: int, ridx: int, index: int) -> T:
         if ridx == lidx:
             return items[lidx]
 

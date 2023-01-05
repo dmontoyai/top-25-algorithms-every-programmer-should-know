@@ -1,6 +1,6 @@
 from typing import Generic, TypeVar
 
-T = TypeVar('T', str, int)
+T = TypeVar("T", str, int)
 
 
 # SelectSort is an in-place comparison sorting algorithm.
@@ -10,7 +10,6 @@ T = TypeVar('T', str, int)
 #
 # Complexity: O(n^2).
 class SelectSort(Generic[T]):
-
     def solve(self, items: list[T]) -> list[T]:
         size = len(items)
         for idx in range(size):

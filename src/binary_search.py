@@ -1,6 +1,6 @@
 from typing import TypeVar, Generic
 
-T = TypeVar('T', str, int)
+T = TypeVar("T", str, int)
 
 
 # Given a sorted array of N integers and a target value,
@@ -11,7 +11,6 @@ T = TypeVar('T', str, int)
 #
 # Complexity:	O(log N) -> log2(N)
 class BinarySearch(Generic[T]):
-
     @staticmethod
     def solve(stack: list[T], target: T) -> int:
         steps = 0

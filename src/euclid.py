@@ -3,7 +3,6 @@
 #
 # Complexity: O(log(min(a, b)).
 class Euclid:
-
     def solve(self, first_number: int, second_number: int) -> int:
         if first_number == 0:
             return second_number

@@ -18,10 +18,8 @@ class Item:
 
 
 class Djikstra:
-
     @staticmethod
-    def solve(graph: dict[str, dict[str, int]], source: str,
-              target: str) -> int:
+    def solve(graph: dict[str, dict[str, int]], source: str, target: str) -> int:
         solutions: dict[str, Item] = defaultdict()
         solutions[source] = Item(0, [])
 

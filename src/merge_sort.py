@@ -1,10 +1,9 @@
 from typing import TypeVar, Generic
 
-T = TypeVar('T', str, int)
+T = TypeVar("T", str, int)
 
 
 class MergeSort(Generic[T]):
-
     def solve(self, array: list[T] = []) -> list[T]:
         if len(array) <= 1:
             return array

@@ -4,7 +4,6 @@ from src.insert_sort import InsertSort
 
 
 class TestInsertSort:
-
     def test_sort_an_array(self) -> None:
         array = [10, 5, 1, 3]
         insert_sort = InsertSort()

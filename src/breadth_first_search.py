@@ -1,7 +1,7 @@
 from collections import deque
 from typing import Deque, TypeVar, Generic
 
-T = TypeVar('T', str, int)
+T = TypeVar("T", str, int)
 
 
 # Breadth–first search (BFS) is an algorithm for traversing or
@@ -14,7 +14,6 @@ T = TypeVar('T', str, int)
 # Complexity: O(|V|+|E|) where V is a number of vertices in the graph
 # and E is a number of edges in the graph.
 class BreadthFirstSearch(Generic[T]):
-
     @staticmethod
     def solve(tree: dict[T, list[T]], root: T, target: T) -> int:
         queue: Deque[T] = deque()
@@ -29,6 +28,5 @@ class BreadthFirstSearch(Generic[T]):
             visited.add(current)
             children = tree.get(current)
             if children:
-                queue.extend(
-                    [child for child in children if child not in visited])
+                queue.extend([child for child in children if child not in visited])
         return steps

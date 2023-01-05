@@ -2,7 +2,7 @@ from collections import deque
 from dataclasses import dataclass
 from typing import Deque, TypeVar, Generic
 
-T = TypeVar('T', str, int)
+T = TypeVar("T", str, int)
 
 
 # Depth-first search (DFS) is an algorithm for traversing or searching
@@ -24,8 +24,9 @@ class DepthFirstSearch(Generic[T]):
         path = self._dfs(self.tree, self.root, self.target, [])
         return path.index(self.target) + 1
 
-    def _dfs(self, tree: dict[T, list[T]], root: T, target: T,
-             path: list[T]) -> list[T]:
+    def _dfs(
+        self, tree: dict[T, list[T]], root: T, target: T, path: list[T]
+    ) -> list[T]:
         queue: Deque[T] = deque()
         queue.append(root)
         path = []

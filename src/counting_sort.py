@@ -1,6 +1,6 @@
 from typing import TypeVar, Generic
 
-T = TypeVar('T', str, int)
+T = TypeVar("T", str, int)
 
 
 # CountingSort is an integer sorting algorithm.

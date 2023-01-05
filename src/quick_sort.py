@@ -1,6 +1,6 @@
 from typing import TypeVar, Generic
 
-T = TypeVar('T', str, int)
+T = TypeVar("T", str, int)
 
 
 # Quicksort is a divide-and-conquer algorithm.
@@ -11,7 +11,6 @@ T = TypeVar('T', str, int)
 #
 # Complexity: O(n^2).
 class QuickSort(Generic[T]):
-
     def solve(self, array: list[T] = []) -> list[T]:
         if len(array) <= 1:
             return array

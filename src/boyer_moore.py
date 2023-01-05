@@ -1,6 +1,6 @@
 from typing import TypeVar, Generic
 
-T = TypeVar('T', str, int)
+T = TypeVar("T", str, int)
 
 
 # BoyerMoore  is an algorithm for finding the majority of a sequence.
@@ -11,7 +11,6 @@ T = TypeVar('T', str, int)
 # Time Complexity: O(N).
 # Space Complexity: O(1).
 class BoyerMoore(Generic[T]):
-
     @staticmethod
     def solve(items: list[T]) -> T | None:
         candidate: T | None = None

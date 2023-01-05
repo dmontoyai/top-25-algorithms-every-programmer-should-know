@@ -4,7 +4,6 @@ from src.breadth_first_search import BreadthFirstSearch
 
 
 class TestBreadthFirstSearch:
-
     def test_worst_scenario(self) -> None:
         tree = {1: [2, 3], 2: [4, 5], 3: [6, 7]}
         root = list(tree.keys())[0]

@@ -4,7 +4,6 @@ from src.select_sort import SelectSort
 
 
 class TestSelectSort:
-
     def test_sort_an_array(self) -> None:
         array = [10, 5, 1, 3]
         select_sort = SelectSort()

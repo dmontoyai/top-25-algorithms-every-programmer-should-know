@@ -1,6 +1,6 @@
 from typing import Generic, TypeVar
 
-T = TypeVar('T', str, int)
+T = TypeVar("T", str, int)
 
 # InsertSort is an in-place comparison sorting algorithm.
 #
@@ -15,7 +15,6 @@ T = TypeVar('T', str, int)
 
 
 class InsertSort(Generic[T]):
-
     def solve(self, items: list[T]) -> list[T]:
         size = len(items)
         for idx in range(1, size):
