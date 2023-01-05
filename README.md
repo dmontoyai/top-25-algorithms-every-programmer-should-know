@@ -10,6 +10,7 @@
 - [X] [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort).
 - [X] [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort).
 - [X] [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort).
+- [X] [Heap Sort](https://en.wikipedia.org/wiki/Heapsort).
 - [X] [Euclid](https://en.wikipedia.org/wiki/Euclidean_algorithm).
 - [X] [Boyer–Moore Majority Vote](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm).
 - [X] [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort).
@@ -22,6 +23,5 @@
 - [ ] [Union Find]().
 - [ ] [Topological Sort]().
 - [ ] [KMP]().
-- [ ] [Heap Sort]().
 - [ ] [Kahn’s Topological Sort]().
 - [ ] [Huffman Coding Compression]().
